@@ -5,4 +5,4 @@ enable_language(Fortran)
 
 add_executable(test_move_alloc_1 test_move_alloc_1.f90)
 add_executable(test_move_alloc_2 test_move_alloc_2.f90)
-
+add_executable(test_get_command_argument test_get_command_argument.f90)
